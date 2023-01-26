@@ -1,0 +1,16 @@
+C:\Users\3de Echelon\source\repos\ElevatorApplication\ElevatorApplication\bin\Debug\net5.0\ElevatorApplication.exe
+C:\Users\3de Echelon\source\repos\ElevatorApplication\ElevatorApplication\bin\Debug\net5.0\ElevatorApplication.deps.json
+C:\Users\3de Echelon\source\repos\ElevatorApplication\ElevatorApplication\bin\Debug\net5.0\ElevatorApplication.runtimeconfig.json
+C:\Users\3de Echelon\source\repos\ElevatorApplication\ElevatorApplication\bin\Debug\net5.0\ElevatorApplication.runtimeconfig.dev.json
+C:\Users\3de Echelon\source\repos\ElevatorApplication\ElevatorApplication\bin\Debug\net5.0\ElevatorApplication.dll
+C:\Users\3de Echelon\source\repos\ElevatorApplication\ElevatorApplication\bin\Debug\net5.0\ref\ElevatorApplication.dll
+C:\Users\3de Echelon\source\repos\ElevatorApplication\ElevatorApplication\bin\Debug\net5.0\ElevatorApplication.pdb
+C:\Users\3de Echelon\source\repos\ElevatorApplication\ElevatorApplication\obj\Debug\net5.0\ElevatorApplication.csproj.AssemblyReference.cache
+C:\Users\3de Echelon\source\repos\ElevatorApplication\ElevatorApplication\obj\Debug\net5.0\ElevatorApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3de Echelon\source\repos\ElevatorApplication\ElevatorApplication\obj\Debug\net5.0\ElevatorApplication.AssemblyInfoInputs.cache
+C:\Users\3de Echelon\source\repos\ElevatorApplication\ElevatorApplication\obj\Debug\net5.0\ElevatorApplication.AssemblyInfo.cs
+C:\Users\3de Echelon\source\repos\ElevatorApplication\ElevatorApplication\obj\Debug\net5.0\ElevatorApplication.csproj.CoreCompileInputs.cache
+C:\Users\3de Echelon\source\repos\ElevatorApplication\ElevatorApplication\obj\Debug\net5.0\ElevatorApplication.dll
+C:\Users\3de Echelon\source\repos\ElevatorApplication\ElevatorApplication\obj\Debug\net5.0\ref\ElevatorApplication.dll
+C:\Users\3de Echelon\source\repos\ElevatorApplication\ElevatorApplication\obj\Debug\net5.0\ElevatorApplication.pdb
+C:\Users\3de Echelon\source\repos\ElevatorApplication\ElevatorApplication\obj\Debug\net5.0\ElevatorApplication.genruntimeconfig.cache
